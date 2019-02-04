@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+
 # Maystya (z430)
 Machine Learning and Embedded System Engineer
 
@@ -27,22 +28,27 @@ __Computer Vision Laboratory Brawijaya University.__ Part time Research Assitant
 ## Education
 
 `2016-18`
-__National Central University__ MSc Computer Science, My thesis was titled _Emebedded System Implementation of Wake-Up Recognition_ 
 
-`2011-12`
-__Brawijaya University__ BSc Computer Engineering
+__National Central University__ MSc Computer Science, My thesis was titled _Embedded System Implementation of Wake-Up Recognition_ 
+
+`2011-15`
+
+__Brawijaya University__ BSc Computer Engineering, My thesis was titled _Pervasive System for Intelligent Home Features Lamp Using Universal Plug and Play Protocol_
 
 
 ## Publications
 
 <!-- ### Journals -->
 `2017`
+
 Design of Pervasive Discovery, Service and Control for Smart Home Appliances: An Integration of Raspberry Pi, UPnP Protocols and Xbee. _International Journal of Electrical and Computer Engineering (IJECE)_.
 
 `2016`
+
 Pervasive Device and Service Discovery Protocol In Xbee Sensor Network. _ICACSIS 2016_.
 
 `2015`
+
 Implementasi Purwarupa Perangkat Rumah Cerdas Pervasif Berbasis Protokol Universal Plug And Play (UPnP) Dan Raspberry Pi General Purpose Input/Output (GPIO). _Jurnal Teknologi Informasi dan Ilmu Komputer (JTIIK)_.
 
 ## Technical skills

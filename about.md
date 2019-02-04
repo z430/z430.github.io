@@ -22,8 +22,11 @@ I'm a part time research assistant at Computer Vision Laboratory Brawijaya Unive
 
 ## Employment
 
-`2018-` 
+`September 2018 - ` 
 __Computer Vision Laboratory Brawijaya University.__ Part time Research Assitant (Speech Engineer and statistical programmer)
+
+`September 2016 - August 2018`
+__Deep Learning and Media System Laboratory at National Central University.__ Graduate Research Assistant (Research in speech topics).
 
 ## Education
 

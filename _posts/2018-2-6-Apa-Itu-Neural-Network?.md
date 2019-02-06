@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: Apa Itu Neural Network?
+title: You're up and running!
 ---
 
 Neural Network adalah persamaan xw + b dan ditambah aktifasi function

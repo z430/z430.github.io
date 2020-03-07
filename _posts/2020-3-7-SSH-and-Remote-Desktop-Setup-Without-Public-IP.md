@@ -20,15 +20,15 @@ Here is my walkthrough.
     2. Download and install the software; If you are in Linux or Mac system, move/copy the software to the /usr/local/bin than add the path to bashrc. In windows I don't know.
     3. Connect to your Account by: *ngrok authtoken [your key]* 
 
-        [<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 400px;"/>]({{ site.baseurl }}/)
+        [<img src="{{ site.baseurl }}/images/ssh-remote/Untitled.png" style="width: 400px;"/>]({{ site.baseurl }}/)
 
     4. Next step do this on computer which you want to remote:
 
-        ![image/Untitled1.png](image/Untitled1.png)
+        [<img src="{{ site.baseurl }}/images/ssh-remote/Untitled1.png" style="width: 400px;"/>]({{ site.baseurl }}/)
 
         Your terminal will show like this
 
-        ![image/Untitled2.png](image/Untitled2.png)
+        [<img src="{{ site.baseurl }}/images/ssh-remote/Untitled2.png" style="width: 400px;"/>]({{ site.baseurl }}/)
 
         Remember the ***Forwarding*** line
 
@@ -50,7 +50,7 @@ Ubuntu Host - Mac Client
 
 2. Remove 2 xRDP max remote desktop
 
-    ![image/Untitled3.png](image/Untitled3.png)
+    [<img src="{{ site.baseurl }}/images/ssh-remote/Untitled3.png" style="width: 400px;"/>]({{ site.baseurl }}/)
 
 3. Install XRDP Client
 

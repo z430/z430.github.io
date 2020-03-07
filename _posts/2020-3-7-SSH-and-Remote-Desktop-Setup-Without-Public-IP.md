@@ -19,15 +19,15 @@ title: SSH and Remote Desktop Setup Without Public IP
     2. Download and install the software; If you are in Linux or Mac system, move/copy the software to the /usr/local/bin than add the path to bashrc. In windows I don't know.
     3. Connect to your Account by: *ngrok authtoken [your key]* 
 
-        ![SSH%20and%20Remote%20Desktop%20Setup/Untitled.png](SSH%20and%20Remote%20Desktop%20Setup/Untitled.png)
+        ![image/Untitled.png](image/Untitled.png)
 
     4. Next step do this on computer which you want to remote:
 
-        ![SSH%20and%20Remote%20Desktop%20Setup/Untitled%201.png](SSH%20and%20Remote%20Desktop%20Setup/Untitled%201.png)
+        ![image/Untitled1.png](image/Untitled1.png)
 
         Your terminal will show like this
 
-        ![SSH%20and%20Remote%20Desktop%20Setup/Untitled%202.png](SSH%20and%20Remote%20Desktop%20Setup/Untitled%202.png)
+        ![image/Untitled2.png](image/Untitled2.png)
 
         Remember the ***Forwarding*** line
 
@@ -49,7 +49,7 @@ Ubuntu Host - Mac Client
 
 2. Remove 2 xRDP max remote desktop
 
-    ![SSH%20and%20Remote%20Desktop%20Setup/Untitled%203.png](SSH%20and%20Remote%20Desktop%20Setup/Untitled%203.png)
+    ![image/Untitled3.png](image/Untitled3.png)
 
 3. Install XRDP Client
 

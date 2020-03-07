@@ -3,7 +3,8 @@ layout: post
 title: SSH and Remote Desktop Setup Without Public IP
 ---
 
-## SSH Setup
+## SSH 
+Here is my walkthrough. 
 
 1. SSH with Public IP
 
@@ -19,7 +20,7 @@ title: SSH and Remote Desktop Setup Without Public IP
     2. Download and install the software; If you are in Linux or Mac system, move/copy the software to the /usr/local/bin than add the path to bashrc. In windows I don't know.
     3. Connect to your Account by: *ngrok authtoken [your key]* 
 
-        ![image/Untitled.png](image/Untitled.png)
+        [<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 400px;"/>]({{ site.baseurl }}/)
 
     4. Next step do this on computer which you want to remote:
 

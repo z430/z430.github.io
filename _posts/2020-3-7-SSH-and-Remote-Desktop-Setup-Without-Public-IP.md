@@ -3,7 +3,8 @@ layout: post
 title: SSH and Remote Desktop Setup Without Public IP
 ---
 
-## SSH 
+[<img src="https://i2.wp.com/www.nextofwindows.com/wp-content/uploads/2015/12/Remote-Desktop-Connection-2015-12-29-23_31_52.png" style="width: 400px;"/>]({{ site.baseurl }}/)
+
 Here is my walkthrough. 
 
 1. SSH with Public IP

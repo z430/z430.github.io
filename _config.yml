@@ -1,42 +1,26 @@
-# Site
-name: "z430 Blog"
-baseurl: ''
-google_analytics: 'UA-161588273-1'
-disqus: 'z430-github-io'
-
-# Setup
-title:            z430 Blog
-baseurl:          ''
-
-# Authors
-authors:
-  mays:
-    name: Mays
-    display_name: Mays
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: maystya@gmail.com
-    web: https://www.z430.github.io
-    twitter: https://twitter.com/maystya
-    description: "Share Unimportant Notes"
-
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
-    
-
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+# permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
 paginate:         5
 
+# Custom vars
+version:          2.1.0
 
 github:
-  repo:           https://github.com/z430
+  repo:           https://github.com/poole/hyde

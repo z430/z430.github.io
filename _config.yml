@@ -1,6 +1,6 @@
 # Site
 name: "z430 Blog"
-title: "z430 Blog"
+# title: "z430 Blog"
 # description: "Funnnnnn"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -62,3 +62,6 @@ lazyimages: "disabled"
 # 
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+# call jeykll admin
+gem: [jekyll-admin]

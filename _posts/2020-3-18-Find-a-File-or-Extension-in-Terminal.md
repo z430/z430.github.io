@@ -8,11 +8,11 @@ title: Find Files or Extension in Terminal (Ubuntu/Mac*) and Do Something
 ## Find Extensions or Files or Whatever
 
 <pre><code>
-find [directory] -name '[file/extenstion]'
+find [directory] -name '*[file/extenstion]'
 </code></pre>
 
 ## Do Some Action with Find
 
 <pre><code>
-find [directory] -name '[file/extenstion]' -exec [linux command(sorry windows :( )] '{}' ';'
+find [directory] -name '*[file/extenstion]' -exec [linux command(sorry windows :( )] '{}' ';'
 </code></pre>

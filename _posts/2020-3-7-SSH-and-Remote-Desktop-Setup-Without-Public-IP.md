@@ -1,9 +1,12 @@
 ---
 layout: post
 title: SSH and Remote Desktop Setup Without Public IP
+author: z430
+categories: [Linux, Toturial, Remote]
+image: "https://i2.wp.com/www.nextofwindows.com/wp-content/uploads/2015/12/Remote-Desktop-Connection-2015-12-29-23_31_52.png"
+featured: true
+comments: true
 ---
-
-[<img src="https://i2.wp.com/www.nextofwindows.com/wp-content/uploads/2015/12/Remote-Desktop-Connection-2015-12-29-23_31_52.png" style="width: 400px;"/>]({{ site.baseurl }}/)
 
 Here is my walkthrough. 
 
@@ -21,15 +24,15 @@ Here is my walkthrough.
     2. Download and install the software; If you are in Linux or Mac system, move/copy the software to the /usr/local/bin than add the path to bashrc. In windows I don't know.
     3. Connect to your Account by: *ngrok authtoken [your key]* 
 
-        [<img src="{{ site.baseurl }}/images/ssh-remote/Untitled.png" style="width: 400px;"/>]({{ site.baseurl }}/)
+        [<img src="{{ site.baseurl }}/assets/images/ssh-remote/Untitled.png" style="width: 400px;"/>]({{ site.baseurl }}/)
 
     4. Next step do this on computer which you want to remote:
 
-        [<img src="{{ site.baseurl }}/images/ssh-remote/Untitled1.png" style="width: 400px;"/>]({{ site.baseurl }}/)
+        [<img src="{{ site.baseurl }}/assets/images/ssh-remote/Untitled1.png" style="width: 400px;"/>]({{ site.baseurl }}/)
 
         Your terminal will show like this
 
-        [<img src="{{ site.baseurl }}/images/ssh-remote/Untitled2.png" style="width: 400px;"/>]({{ site.baseurl }}/)
+        [<img src="{{ site.baseurl }}/assets/images/ssh-remote/Untitled2.png" style="width: 400px;"/>]({{ site.baseurl }}/)
 
         Remember the ***Forwarding*** line
 
@@ -41,7 +44,7 @@ Here is my walkthrough.
 
         *ssh lontong@0.tcp.ngrok.io -p 9999*
 
-## Remote Desktop Setup
+<!-- ## Remote Desktop Setup
 
 Ubuntu Host - Mac Client
 
@@ -51,7 +54,7 @@ Ubuntu Host - Mac Client
 
 2. Remove 2 xRDP max remote desktop
 
-    [<img src="{{ site.baseurl }}/images/ssh-remote/Untitled3.png" style="width: 400px;"/>]({{ site.baseurl }}/)
+    [<img src="{{ site.baseurl }}/assets/images/ssh-remote/Untitled3.png" style="width: 400px;"/>]({{ site.baseurl }}/)
 
 3. Install XRDP Client
 
@@ -62,4 +65,4 @@ Ubuntu Host - Mac Client
 1. Open Settings
 2. Users and Group
 3. Add Admin User
-4. Reboot
+4. Reboot -->

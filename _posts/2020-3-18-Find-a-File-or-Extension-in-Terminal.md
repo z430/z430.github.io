@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Find Files or Extension in Terminal (Ubuntu/Mac*) and Do Something
+author: z430
+categories: [Linux, Toturial, Remote]
+image: "https://www.howtogeek.com/wp-content/uploads/2012/03/ls.png"
+featured: true
+comments: true
 ---
 
 [<img src="https://www.howtogeek.com/wp-content/uploads/2012/03/ls.png" style="width: 400px;"/>]({{ site.baseurl }}/)
@@ -16,3 +21,5 @@ find [directory] -name '*[file/extenstion]'
 <pre><code>
 find [directory] -name '*[file/extenstion]' -exec [linux command(sorry windows :( )] '{}' ';'
 </code></pre>
+
+Just That XD

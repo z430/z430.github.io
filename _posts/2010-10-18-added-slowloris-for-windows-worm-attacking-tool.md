@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Added slowloris.exe for windows worm attacking tool
+title: Added slowloris for windows worm attacking tool
 ---
+
+Slowloris is HTTP DOS attack that affects threaded servers.
+
+Usually this program run on linux, how can you run it on Windows. Here is the step:
 added slowloris.exe for windows worm attacking tool
 tool name: slowloris.exe for ms windows
 

@@ -22,6 +22,7 @@ plugins:
 title:            z430
 description:      'A Blog'
 baseurl:          '/'
+disqus:           'z430-github-io'
 
 author:
   name:           'z430'

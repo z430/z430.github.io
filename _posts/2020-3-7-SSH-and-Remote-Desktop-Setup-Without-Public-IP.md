@@ -3,7 +3,9 @@ layout: post
 title: SSH and Remote Desktop Setup Without Public IP
 ---
 
-Here is my walkthrough. 
+With Corona Virus spread all over the world, a lot Company try to use Work From Home aka WFH for their worker. Some Company may have limited computer resource, and the worker usually cannot bring the computer to home. Such as AI Engineer if they don't have Cloud Instance they have to remote their local computer from home. 
+
+Here is my walkthrough to remote local connected computer with internet. 
 
 1. SSH with Public IP
 

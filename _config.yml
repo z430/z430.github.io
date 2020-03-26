@@ -27,10 +27,7 @@ author:
   name:           'z430'
   url:            https://twitter.com/mays
 
-paginate:         5
-
-# Custom vars
-version:          2.1.0
+paginate:         50
 
 github:
   repo:           https://github.com/poole/z430
@@ -41,6 +38,16 @@ jekyll-archives:
     - categories
   layout: archive
 
-excerpt_separator: "<!--excerpt-->"
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+      is_post: true
+
+gems:
+  - jekyll-redirect-from
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

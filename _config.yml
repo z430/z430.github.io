@@ -20,7 +20,7 @@ plugins:
 
 # Setup
 title:            z430
-description:      'A Blog'
+description:      'Short Blog Post'
 baseurl:          '/'
 disqus:           'z430-github-io'
 
@@ -28,7 +28,7 @@ author:
   name:           'z430'
   url:            https://twitter.com/mays
 
-paginate:         50
+paginate:         5
 
 github:
   repo:           https://github.com/poole/z430

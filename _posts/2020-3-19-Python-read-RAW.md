@@ -51,8 +51,5 @@ Even though the image quality may not as good as Lightroom, but you can use some
 
 
 ## Compare with Lightroom
-
-
-
-
-
+Here side by side results
+[<img src="/public/images/read_reaw/comparison.png" style="width: 800px;"/>]({{ site.baseurl }}/)

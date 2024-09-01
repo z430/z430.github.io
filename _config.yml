@@ -29,7 +29,8 @@ twitter_username: maystya
 github_username:  z430
 
 # Build settings
-theme: minima
+# theme: minima
+theme: jekyll-theme-horizon-flow
 plugins:
   - jekyll-feed
 

@@ -30,9 +30,7 @@ github_username:  z430
 
 # Build settings
 # theme: minima
-theme: jekyll-theme-horizon-flow
-plugins:
-  - jekyll-feed
+theme: no-style-please
 
 # Exclude from processing.
 # The following items will not be processed, by default.
